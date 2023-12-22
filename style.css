@@ -512,8 +512,11 @@ footer div button a{
     .services .service{
         width: 95%;
     }
-    .social-media h1{
-        font-size: 25px;
+    .services .service h1{
+        margin: 5px 10px;
+    }
+    .services .service p{
+        margin: 5px 10px;
     }
     .slider div img{
         width: 50px;
